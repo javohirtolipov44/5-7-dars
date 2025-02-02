@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "3f3452b9-b638-40e2-a47d-506ee24da977",
+		"name": "7-dars",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "14374179"
+	},
+	"item": [
+		{
+			"name": "add_user",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Tohirjon\",\r\n    \"email\": \"tolipovtohirjon@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:4000/api/user"
+			},
+			"response": []
+		},
+		{
+			"name": "add_post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\":\"O‘zbekistonda Koreya tajribasi asosida reabilitatsiya xizmatlari joriy etiladi\",\r\n    \"content\":\"Mamlakat elchixonasi ko‘magida O‘zbekiston prezidenti huzuridagi Ijtimoiy himoya milliy agentligi, Sog‘liqni saqlash vazirligi va Janubiy Koreyaning Kyungpuk milliy universitetining Chilgok va Seul milliy universitetining Bundan klinikalari rahbariyati o‘rtasida onlayn muzokaralar tashkil etildi.\",\r\n    \"author\": \"679f68da79f9124252d8a3a0\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:4000/api/post"
+			},
+			"response": []
+		},
+		{
+			"name": "get_posts_with_author",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:4000/api/posts"
+			},
+			"response": []
+		},
+		{
+			"name": "get_single_posts_with_author",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:4000/api/post/679f6bd575e37ff89fb99883"
+			},
+			"response": []
+		}
+	]
+}
