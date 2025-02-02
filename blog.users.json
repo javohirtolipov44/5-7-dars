@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "679f68a179f9124252d8a39c"
+  },
+  "name": "Javohir",
+  "email": "tolipovjavohir@gmail.com",
+  "createdAt": {
+    "$date": "2025-02-02T12:44:17.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T12:44:17.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f68c679f9124252d8a39e"
+  },
+  "name": "Abdulloh",
+  "email": "tolipovabdulloh@gmail.com",
+  "createdAt": {
+    "$date": "2025-02-02T12:44:54.127Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T12:44:54.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f68da79f9124252d8a3a0"
+  },
+  "name": "Tohirjon",
+  "email": "tolipovtohirjon@gmail.com",
+  "createdAt": {
+    "$date": "2025-02-02T12:45:14.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T12:45:14.495Z"
+  }
+}]

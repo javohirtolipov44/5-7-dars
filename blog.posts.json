@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "679f6bd575e37ff89fb99883"
+  },
+  "title": "Shavkat Mirziyoyev Malayziyaga boradi",
+  "content": "Shavkat Mirziyoyev Malayziya bosh vaziri Anvar Ibrohimning taklifiga binoan 4–5 fevral kunlari rasmiy tashrif bilan ushbu mamlakatda bo‘ladi, deya xabar bermoqda prezident matbuot xizmati",
+  "author": {
+    "$oid": "679f68a179f9124252d8a39c"
+  },
+  "createdAt": {
+    "$date": "2025-02-02T12:57:57.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T12:57:57.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f6c0475e37ff89fb99885"
+  },
+  "title": "Samarqandda mashinasini YPX xodimi ustiga haydagan haydovchi qamoqqa olindi",
+  "content": "Samarqandda YPX xodimining qonuniy talabiga bo‘ysunmasdan inspektorning hayoti uchun xavfli harakatlar sodir etgan haydovchi qamoqqa olindi. Bu haqda viloyat YHXB matbuot xizmati xabar berdi.",
+  "author": {
+    "$oid": "679f68a179f9124252d8a39c"
+  },
+  "createdAt": {
+    "$date": "2025-02-02T12:58:44.761Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T12:58:44.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f6c6975e37ff89fb99887"
+  },
+  "title": "Madina-Farg‘ona reysi bo‘yicha uchgan samolyot Turkmanistonda favqulodda qo‘nishni amalga oshirdi",
+  "content": "Centrum Air aviakompaniyasining Madina—Farg‘ona reysi bo‘yicha uchgan havo kemasi Turkmanistonga qo‘ndirildi. Bu haqda aviakompaniya matbuot xizmati xabar berdi.",
+  "author": {
+    "$oid": "679f68c679f9124252d8a39e"
+  },
+  "createdAt": {
+    "$date": "2025-02-02T13:00:25.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T13:00:25.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f6ca075e37ff89fb99889"
+  },
+  "title": "Uy-joylar qurilishi bo‘yicha elektron platforma yaratiladi",
+  "content": "Qurilishga ulushdorlarning mablag‘larini jalb qilish bu yil ikki xil usulda: ham an’anaviy, ham eskrou tizimi orqali bo‘ladi. 2026 yil 1 yanvardan boshlab esa quruvchilar ulushdorlarning pulini faqat eskrou hisobvaraqlari orqali olishi mumkin bo‘ladi.",
+  "author": {
+    "$oid": "679f68c679f9124252d8a39e"
+  },
+  "createdAt": {
+    "$date": "2025-02-02T13:01:20.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T13:01:20.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f6cdd75e37ff89fb9988b"
+  },
+  "title": "Qatar O‘zbekistondan malakali mutaxassislarni ishga qabul qilishga tayyorlanmoqda",
+  "content": "Mamlakat elchixonasi ko‘magida 23-25 yanvar kunlari O‘zbekiston Vazirlar Mahkamasi huzuridagi Migratsiya agentligi direktori Behzod Musayev va tashqi ishlar vaziri o‘rinbosari Olim Abdullayev boshchiligidagi mamlakatimiz delegatsiyasining Qatarga tashrifi tashkil etildi.",
+  "author": {
+    "$oid": "679f68da79f9124252d8a3a0"
+  },
+  "createdAt": {
+    "$date": "2025-02-02T13:02:21.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T13:02:21.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679f6cf275e37ff89fb9988d"
+  },
+  "title": "O‘zbekistonda Koreya tajribasi asosida reabilitatsiya xizmatlari joriy etiladi",
+  "content": "Mamlakat elchixonasi ko‘magida O‘zbekiston prezidenti huzuridagi Ijtimoiy himoya milliy agentligi, Sog‘liqni saqlash vazirligi va Janubiy Koreyaning Kyungpuk milliy universitetining Chilgok va Seul milliy universitetining Bundan klinikalari rahbariyati o‘rtasida onlayn muzokaralar tashkil etildi.",
+  "author": {
+    "$oid": "679f68da79f9124252d8a3a0"
+  },
+  "createdAt": {
+    "$date": "2025-02-02T13:02:42.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T13:02:42.880Z"
+  }
+}]
